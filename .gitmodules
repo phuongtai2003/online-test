@@ -1,0 +1,6 @@
+[submodule "currency-converter-app"]
+	path = currency-converter-app
+	url = git@github.com:phuongtai2003/currency-converter-app.git
+[submodule "coding-skills-assessment"]
+	path = coding-skills-assessment
+	url = git@github.com:phuongtai2003/coding-skills-assessment.git
